@@ -41,3 +41,14 @@ class EmployeeDriver{
 
     }
 }
+/*Output
+Enter the Employee Id:
+123
+Enter the name of the employee:
+Damian
+Enter the salary of the employee
+60000
+enter the pf percentage
+5
+The net salary of the employee is:57000.0
+*/
