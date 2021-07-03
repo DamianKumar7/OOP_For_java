@@ -33,8 +33,8 @@ class EmployeeDriver{
         return pf;
     }
     public static void main(String[]args){
-        EmployeeDriver ob = new EmployeeDriver();
-        Employee obj = ob.getEmployeeDetails();
+       
+        Employee obj = EmployeeDriver.getEmployeeDetails();
         int pf = getPFPercentage();
         obj.CalculateNetSalary(pf);
         System.out.println("The net salary of the employee is:" + Double.toString(obj.netSalary));
