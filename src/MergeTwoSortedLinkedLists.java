@@ -1,11 +1,3 @@
-class ListNode{
-    int data;
-    Node next;
-    ListNode(int data){
-        this.data = data;
-        next = null;
-    }
-}
 
 public class MergeTwoSortedLinkedLists {
     Node head = null;
