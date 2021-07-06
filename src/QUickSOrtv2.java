@@ -39,7 +39,7 @@ public class QUickSOrtv2 {
         System.out.println();
     }
     public static void main(String[] args) {
-        int[] arr = {4, 1, 3, 9, 7};
+        int[] arr = {10, 9, 8 ,7 ,6 ,5 ,4, 3 ,2 ,1};
         int n = arr.length;
 
         QUickSOrtv2 ob = new QUickSOrtv2();
